@@ -2,9 +2,8 @@
 
 - 💻 Estou atualmente trabalhando com desenvolvimento android e sistemas em python.
 - 📘 Estudando Swift para desenvolvimento IOs.
-- 📨 Clique nos ícones abaixo para entrar em contato.
-- 😄 Pronomes: Ele/Dele
-- ⚡ Sobre mim: Um dos meus hobbies favoritos é ouvir música e além de ouvir, tento produzir nas horas vagas!
+- ⚡ Sobre mim: Um dos meus hobbies favoritos é ouvir música e além de ouvir, tento produzir nas horas vagas.
+- - 📨 Clique nos ícones abaixo para entrar em contato!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Kt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
