@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Pedro de Oliveira! 👋
 
 - 💻 Estou atualmente trabalhando com desenvolvimento android e sistemas em python.
-- 📘 Estudando Swift para desenvolvimento IOs.
+- 📘 Se aprofundando em Swift.
 - ⚡ Sobre mim: Um dos meus hobbies favoritos é ouvir música e além de ouvir, tento produzir nas horas vagas.
 - 📨 Clique nos ícones abaixo para entrar em contato!
 
