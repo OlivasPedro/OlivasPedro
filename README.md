@@ -3,7 +3,7 @@
 - 💻 Atualmente trabalho com desenvolvimento de apps.
 - 📘 Se aprofundando em JavaScript.
 - ⚡ Sobre mim: Um dos meus hobbies favoritos é ouvir música e além de ouvir, tento produzir nas horas vagas!
-- 📊 Veja o meu portifólio: <a href="https://olivaspedro.github.io/portifolio/" target="_blank">Aqui</a>
+- 📊 <a href="https://olivaspedro.github.io/portifolio/" target="_blank">Acesse meu portifólio</a>
 - 📨 Clique nos ícones abaixo para entrar em contato!
 
 <div style="display: inline_block"><br>
