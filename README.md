@@ -3,15 +3,18 @@
 - 💻 Atualmente trabalho com desenvolvimento de apps.
 - 📘 Se aprofundando em JavaScript.
 - ⚡ Sobre mim: Um dos meus hobbies favoritos é ouvir música e além de ouvir, tento produzir nas horas vagas!
-- 📊 <a href="https://olivaspedro.github.io/portifolio/" target="_blank">Acesse meu portifólio!</a>
+- 📊 <a href="https://olivaspedro.github.io/portifolio/" target="_blank">Acesse meu portifólio.</a>
 
-##Minhas principais linguagens de desenvolvimento
+## Minhas principais linguagens de desenvolvimento
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Kt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="Pedro-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
   <img align="center" alt="Pedro-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Pedro-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"> 
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> 
+  <img align="center" alt="Pedro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+           
+          
 </div>
   
   ## 📨 Clique nos ícones abaixo para entrar em contato!
